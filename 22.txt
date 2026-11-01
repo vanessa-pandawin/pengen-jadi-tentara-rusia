@@ -137,7 +137,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 <link rel="https://api.w.org/" href="https://fundacionfactordecambio.cl/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://fundacionfactordecambio.cl/wp-json/wp/v2/pages/14" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fundacionfactordecambio.cl/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 7.0.2" />
-<link rel="canonical" href="https://keystone-instruments.com/applications/" />
+<link rel="canonical" href="https://keystone-instruments.com/applications//" />
 <link rel='shortlink' href='https://fundacionfactordecambio.cl/?p=14' />
 <meta name="generator" content="Site Kit by Google 1.185.0" /></head>
 
@@ -171,7 +171,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://fundacionfactordecambio.cl/soluciones/">Soluciones</a></li>
 <li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://fundacionfactordecambio.cl/territorios/">Territorios</a></li>
 <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="https://fundacionfactordecambio.cl/clientes/">Clientes</a></li>
-<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-32"><a href="https://keystone-instruments.com/applications/" aria-current="page">Equipo</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-32"><a href="https://keystone-instruments.com/applications//" aria-current="page">Equipo</a></li>
 <li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://fundacionfactordecambio.cl/noticias/">Noticias</a></li>
 <li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://fundacionfactordecambio.cl/contactanos/">Contáctanos</a></li>
 </ul>            </nav>
